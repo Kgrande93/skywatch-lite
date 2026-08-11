@@ -5,6 +5,7 @@
 #include <ArduinoJson.h>
 #include <Update.h>
 #include <WiFiClientSecure.h>
+#include <WiFiClient.h>
 
 // Very small semver-ish compare: treats tags like "v0.2.0" / "0.2.0".
 // Good enough for "is the release tag newer than what's running" - not a

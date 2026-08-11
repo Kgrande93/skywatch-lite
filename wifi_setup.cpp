@@ -25,7 +25,7 @@ void WifiSetup::connectOrSetup(bool forcePortal) {
     "server_url", "Skywatch server URL", serverUrlBuffer, sizeof(serverUrlBuffer)
   );
   wm.addParameter(&serverUrlParam);
-  wm.setSaveConfigCallback([]() {
+  wm.setSaveConfigCallback([&serverUrlParam]() {
     strncpy(serverUrlBuffer, serverUrlParam.getValue(), sizeof(serverUrlBuffer));
     saveConfigCallback();
   });
