@@ -1,0 +1,16 @@
+{
+  "mode": "idle",
+  "antenna": "#3ddc84",
+  "server": "#3ddc84",
+  "banner_text": null,
+  "banner_expires_at": null,
+  "name": "SKYWATCH",
+  "route": "",
+  "actype": "",
+  "line4": "NO AIRCRAFT",
+  "line5": "IN RANGE",
+  "accent": "#4fa8ff",
+  "logo": "default",
+  "logo_color": "#3a4652",
+  "progress": 0.0
+}

@@ -1,0 +1,16 @@
+{
+  "mode": "flight",
+  "antenna": "#3ddc84",
+  "server": "#3ddc84",
+  "banner_text": null,
+  "banner_expires_at": null,
+  "name": "SK4521",
+  "route": "OSL-BGO",
+  "actype": "A320",
+  "line4": "EMERGENCY 7700",
+  "line5": "MAYDAY",
+  "accent": "#ff4d4d",
+  "logo": "default",
+  "logo_color": "#1f4fbf",
+  "progress": 0.6
+}

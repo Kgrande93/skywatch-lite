@@ -1,0 +1,16 @@
+{
+  "mode": "flight",
+  "antenna": "#3ddc84",
+  "server": "#3ddc84",
+  "banner_text": null,
+  "banner_expires_at": null,
+  "name": "DL212",
+  "route": "JFK-ATH",
+  "actype": "B739",
+  "line4": "ALT 4.6K  SPD 281KT",
+  "line5": "DIST 26.5KM",
+  "accent": "#c7ced4",
+  "logo": "default",
+  "logo_color": "#c8102e",
+  "progress": 0.4
+}

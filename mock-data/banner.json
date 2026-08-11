@@ -1,0 +1,16 @@
+{
+  "mode": "flight",
+  "antenna": "#3ddc84",
+  "server": "#3ddc84",
+  "banner_text": "DINNER IS READY",
+  "banner_expires_at": "2026-08-10T21:00:00Z",
+  "name": "WF102",
+  "route": "OSL-TRD",
+  "actype": "DH8D",
+  "line4": "ALT 12.4K  SPD 260KT",
+  "line5": "DIST 88.2KM",
+  "accent": "#c7ced4",
+  "logo": "default",
+  "logo_color": "#003087",
+  "progress": 0.7
+}
